@@ -193,8 +193,8 @@
 		8557940B234C915200BBEB7F /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				8557940C234C915200BBEB7F /* ShakeView.h */,
 				8557940D234C915200BBEB7F /* cat@2x.png */,
+				8557940C234C915200BBEB7F /* ShakeView.h */,
 				8557940E234C915200BBEB7F /* ShakeView.m */,
 			);
 			path = Animation;
